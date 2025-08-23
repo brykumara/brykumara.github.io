@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16px;"> I am a first year DPhil student at the [University of Oxford](https://www.ox.ac.uk/) where I am advised by Prof. [Kasper Rasmussen](https://www.cs.ox.ac.uk/people/kasper.rasmussen/). My research interest lies in applied cryptography for distributed systems. Before coming to Oxford, I obtained my Master's degree at [University College London](https://www.ucl.ac.uk/) where I was advised by Prof. [Philipp Jovanovic](https://philippjovanovic.com/) and my Bachelor's degree at the [London School of Economics](https://www.lse.ac.uk/). After my Master's I worked as a researcher at the [Alan Turing Institute](https://www.turing.ac.uk/) and as an applied cryptographer at [CrossBar Inc](https://www.crossbar-inc.com/).</span>
+<span style="font-size: 16px;"> I am a first year PhD (DPhil) student at [Exeter College](https://www.exeter.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/) advised by Prof. [Kasper Rasmussen](https://www.cs.ox.ac.uk/people/kasper.rasmussen/). My research interest lies in applied cryptography for distributed systems. Before starting my DPhil, I worked as a researcher at the [Alan Turing Institute](https://www.turing.ac.uk/) and as an applied cryptographer at [CrossBar Inc](https://www.crossbar-inc.com/). I obtained my Master's degree at [University College London](https://www.ucl.ac.uk/) where I was advised by Prof. [Philipp Jovanovic](https://philippjovanovic.com/) and my Bachelor's degree at the [London School of Economics](https://www.lse.ac.uk/).</span>
 
 Awards
 ======
