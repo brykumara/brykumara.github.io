@@ -20,7 +20,7 @@ Imperfect Recall and Imperfect Information</span>](/files/2019_UROP.pdf)
 *<span style="font-size: 14px;"> Imperial College London Undergraduate Research, 2019</span>*
 
 
-<span style="font-size: 18px;"> Article</span> 
+<span style="font-size: 18px;"> Articles</span> 
 ======
 [<span style="font-size: 14px;"> ASEAN Cyber Security: Challenges and Resolution</span>](/files/2017_THC.pdf)  
 <span style="font-size: 14px;"> Bryan Kumara</span>  
