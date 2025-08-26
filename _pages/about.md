@@ -12,4 +12,4 @@ redirect_from:
 Awards
 ======
 <span style="font-size: 16px;">I am a recipient of the following awards:</span>  
-<span style="font-size: 16px;">- [EPSRC](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships/) and [Oxford Department of Computer Science](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentships.html?) Doctoral Training Scholarship, 2025</span>
+<span style="font-size: 16px;">- [EPSRC](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships/) and [Department of Computer Science](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentships.html?) Doctoral Training Programme Scholarship, 2025</span>
