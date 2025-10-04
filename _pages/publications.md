@@ -25,6 +25,10 @@ author_profile: true
 
 <span style="font-size: 18px;"> 2023</span> 
 ======
+[<span style="font-size: 14px;"> Redactable Signature Schemes and Zero-Knowledge Proofs: A Comparative Examination for Applications in Decentralised Digital Identity Systems</span>](/files/2023_TDIC.pdf)  
+<span style="font-size: 14px;"> Bryan Kumara, Mark Hooper, Jon Crowcroft, Carsten Maple, and Timothy Hobson</span>  
+*<span style="font-size: 14px;"> (No Proceedings) Trustworthy Digital Identity International Conference (TDI), 2023</span>*
+
 [<span style="font-size: 14px;"> Redactable and Sanitizable Signature Schemes: Applications and Limitations for use in Decentralised Digital Identity Systems</span>](/files/2023_CADE.pdf)  
 <span style="font-size: 14px;"> Bryan Kumara, Mark Hooper, Jon Crowcroft, Carsten Maple, and Timothy Hobson</span>  
 *<span style="font-size: 14px;"> Conference on AI and the Digital Economy (CADE), 2023</span>*
