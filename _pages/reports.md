@@ -21,16 +21,16 @@ Imperfect Recall and Imperfect Information</span>](/files/2019_UROP.pdf)
 ======
 [<span style="font-size: 14px;"> ASEAN Cyber Security: Challenges and Resolution</span>](/files/2017_THC.pdf)  
 <span style="font-size: 14px;"> Bryan Kumara</span>  
-*<span style="font-size: 14px;"> Thinking ASEAN, Issue 27, 2017</span>*
+*<span style="font-size: 14px;"> Thinking ASEAN Issue 27, 2017</span>*
 
 
 <span style="font-size: 18px;"> Theses</span> 
 ======
 [<span style="font-size: 14px;"> Commutative Supersingular Isogeny-based Diffie-Hellman Group Action Through Lattice Reduction Algorithms</span>](/files/2022_UCL.pdf)  
 <span style="font-size: 14px;"> Bryan Kumara</span>  
-*<span style="font-size: 14px;"> 2022</span>*
+*<span style="font-size: 14px;"> MSc Thesis, 2022</span>*
 
 [<span style="font-size: 14px;"> Defending Logical Relativism – Examples in Computer Science</span>](/files/2020_LSE.pdf)  
 <span style="font-size: 14px;"> Bryan Kumara</span>  
-*<span style="font-size: 14px;"> 2020</span>*
+*<span style="font-size: 14px;"> BSc Thesis, 2020</span>*
 
