@@ -12,12 +12,12 @@ author_profile: true
 ======
 [<span style="font-size: 14px;"> Redactable Signature Schemes and Zero-Knowledge Proofs: A Comparative Examination for Applications in Decentralised Digital Identity Systems</span>](/files/2023_TDIC.pdf)  
 <span style="font-size: 14px;"> Bryan Kumara, Mark Hooper, Jon Crowcroft, Carsten Maple, and Timothy Hobson</span>  
-*<span style="font-size: 14px;"> (No Proceedings) Trustworthy Digital Identity Conference, 2023</span>*
+*<span style="font-size: 14px;"> (No Proceedings) Trustworthy Digital Identity Conference (TDIC), 2023</span>*
 
 [<span style="font-size: 14px;"> Model Checking Probabilistic ATL with
 Imperfect Recall and Imperfect Information</span>](/files/2019_UROP.pdf)  
 <span style="font-size: 14px;"> Bryan Kumara</span>  
-*<span style="font-size: 14px;"> Imperial College London Undergraduate Research, 2019</span>*
+*<span style="font-size: 14px;"> Imperial College London Summer Undergraduate Research, 2019</span>*
 
 
 <span style="font-size: 18px;"> Articles</span> 
