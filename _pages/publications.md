@@ -11,9 +11,9 @@ author_profile: true
 <span style="font-size: 14px;"> Yalan Wang, Bryan Kumara, Harsh Kasyap, Liqun Chen, Sumanta Sarkar, Christopher J.P. Newton, Carsten Maple, and Ugur Ilker Atmaca</span>  
 *<span style="font-size: 14px;"> IEEE Trust, Security, and Privacy in Computing and Communications (TrustCom), 2025</span>*
 
-[<span style="font-size: 14px;"> Mahi-Mahi: Low-Latency Asynchronous BFT DAG-based Consensus</span>](/files/2025_ICDCS.pdf),
+[<span style="font-size: 14px;"> Mahi-Mahi: Low-Latency Asynchronous BFT DAG-based Consensus</span>](/files/2025_ICDCS.pdf)  
 <span style="font-size: 14px;"> Philipp Jovanovic, Lefteris Kokoris Kogias, Bryan Kumara, Alberto Sonnino, Pasindu Tennage, and Igor Zablotchi</span>    
-*<span style="font-size: 14px;"> IEEE International Conference on Distributed Computing Systems (ICDCS), 2025</span>*
+*<span style="font-size: 14px;"> IEEE International Conference on Distributed Computing Systems (ICDCS), 2025</span>*  
 [<span style="font-size: 14px;"> Full Version</span>](/files/2024_MahiMahi.pdf)
 
 
