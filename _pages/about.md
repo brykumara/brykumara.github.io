@@ -18,3 +18,4 @@ Academic Activities & Service
 ======
 <span style="font-size: 16px;">I have served as the following:</span>  
 <span style="font-size: 16px;">- Student-Staff Liaison Representative, LSE Department of Philosophy, 2019 - 2020</span>
+<span style="font-size: 16px;">- Student Academic Mentor, LSE Department of Philosophy, 2019 - 2020</span>
