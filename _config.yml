@@ -32,13 +32,12 @@ author:
   email            : "bryan.kumara@exeter.ox.ac.uk"
 
   # Academic websites
-  # Academic websites
-  academia         : # URL
+  academia         : "https://scholar.google.com/citations?user=aZQlD8UAAAAJ&hl=en"
   # arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Kumara,+B"
   # dblp             : "https://dblp.org/pid/359/4742.html"
   inspire-hep      : # URL
   impactstory      : # URL
-  # orcid            : "https://orcid.org/0009-0000-7623-7053"
+  orcid            : "https://orcid.org/0009-0000-7623-7053"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
