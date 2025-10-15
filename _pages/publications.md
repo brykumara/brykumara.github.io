@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-My papers are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=aZQlD8UAAAAJ&hl=en).
+My papers are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=aZQlD8UAAAAJ&hl=en).  
+
 <span style="font-size: 18px;"> 2025</span> 
 ======
 [<span style="font-size: 14px;"> BACON: An Improved Vector Commitment Construction with Applications to Signatures</span>](/files/2025_TrustCom.pdf)  
