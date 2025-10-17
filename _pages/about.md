@@ -20,6 +20,6 @@ redirect_from:
 <span style="font-size: 16px;">- 2025 Classes TBC</span>   -->
 
 <span style="font-size: 16px;">I have served as:</span>  
-<span style="font-size: 16px;">- DPhil Student Representative, Oxford Department of Computer Science, 2025 - 2026</span>  
+<span style="font-size: 16px;">- DPhil Student Cohort Representative, University of Oxford Department of Computer Science, 2025 - 2026</span>  
 <span style="font-size: 16px;">- Student-Staff Liaison Representative, LSE Department of Philosophy, 2019 - 2020</span>  
 <span style="font-size: 16px;">- Student Academic Mentor, LSE Department of Philosophy, 2019 - 2020</span>  
