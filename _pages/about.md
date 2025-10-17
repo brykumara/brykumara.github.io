@@ -14,12 +14,12 @@ redirect_from:
 <span style="font-size: 16px;">I am a recipient of the following awards:</span>  
 <span style="font-size: 16px;">- [EPSRC](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships/) and [Department of Computer Science](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html?) Doctoral Training Scholarship, 2025</span>
 
-<!-- <span style="font-size: 18px;"> Academic Activities & Service</span> 
+<span style="font-size: 18px;"> Academic Activities & Service</span> 
 ======
-<span style="font-size: 16px;">I have taught the following:</span>  
+<!-- <span style="font-size: 16px;">I have taught:</span>  
 <span style="font-size: 16px;">- 2025 Classes TBC</span>   -->
 
-<span style="font-size: 16px;">I have volunteered as:</span>  
-<!-- <span style="font-size: 16px;">- DPhil Student Representative, Oxford Department of Computer Science, 2025 - 2026</span>   -->
+<span style="font-size: 16px;">I have served as:</span>  
+<span style="font-size: 16px;">- DPhil Student Representative, Oxford Department of Computer Science, 2025 - 2026</span>  
 <span style="font-size: 16px;">- Student-Staff Liaison Representative, LSE Department of Philosophy, 2019 - 2020</span>  
 <span style="font-size: 16px;">- Student Academic Mentor, LSE Department of Philosophy, 2019 - 2020</span>  
