@@ -17,7 +17,7 @@ redirect_from:
 <span style="font-size: 18px;"> Academic Activities & Service</span> 
 ======
 <span style="font-size: 16px;">I've taught and/or marked the following classes:</span>  
-<span style="font-size: 16px;">- [Computational Game Theory](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/), 2025</span>  
+<span style="font-size: 16px;">- Computational Game Theory, [2025]((https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/))</span>  
 
 <span style="font-size: 16px;">I've served as:</span>  
 <span style="font-size: 16px;">- DPhil Student Cohort Representative, University of Oxford Department of Computer Science, 2025 - 2026</span>  
