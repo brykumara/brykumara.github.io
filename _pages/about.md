@@ -16,8 +16,9 @@ redirect_from:
 
 <span style="font-size: 18px;"> Teaching & Volunteering</span> 
 ======
-<span style="font-size: 16px;">I've taught and/or marked the following classes:</span>  
-<span style="font-size: 16px;">- Computational Game Theory, Teaching & Marking [2025]((https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/))</span>  
+<span style="font-size: 16px;">I've taught the following classes:</span>  
+<span style="font-size: 16px;">- Probabilistic Model Checking, [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/probabilistic/)</span>  
+<span style="font-size: 16px;">- Computational Game Theory, [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/)</span>  
 
 <span style="font-size: 16px;">I've served as:</span>  
 <!-- <span style="font-size: 16px;">- Divisional Representative, Oxford Student Union, 2025 - 2026</span>   -->
