@@ -7,21 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16px;"> I am a DPhil student at the [University of Oxford](https://www.ox.ac.uk/) [Department of Computer Science](https://www.cs.ox.ac.uk/people/bryan.kumara/) supervised by Prof. [Kasper Rasmussen](https://www.cs.ox.ac.uk/people/kasper.rasmussen/) under the [Security](https://www.cs.ox.ac.uk/research/security/) theme. My research interest lies in applied cryptography and distributed systems. Before starting my DPhil, I was a researcher at the [Alan Turing Institute](https://www.turing.ac.uk/) and a cryptographer at [Crossbar](https://www.crossbar-inc.com/). I completed my MSc from [University College London (UCL)](https://www.ucl.ac.uk/) supervised by Prof. [Philipp Jovanovic](https://philippjovanovic.com/) and BSc from the [London School of Economics (LSE)](https://www.lse.ac.uk/) supervised by Prof. [Laurenz Hudetz](https://philpeople.org/profiles/laurenz-hudetz).</span>
+<span style="font-size: 16px;"> I am an [Oxford](https://www.ox.ac.uk/) Computer Science DPhil [student](https://www.cs.ox.ac.uk/people/bryan.kumara/) supervised by Prof. [Kasper Rasmussen](https://www.cs.ox.ac.uk/people/kasper.rasmussen/) under the [Security](https://www.cs.ox.ac.uk/research/security/) theme. My research interest lies in applied cryptography and distributed systems. Before starting my DPhil, I was a researcher at the [Alan Turing Institute](https://www.turing.ac.uk/) and a cryptographer at [Crossbar](https://www.crossbar-inc.com/). I completed my MSc from [University College London (UCL)](https://www.ucl.ac.uk/) supervised by Prof. [Philipp Jovanovic](https://philippjovanovic.com/) and BSc from the [London School of Economics (LSE)](https://www.lse.ac.uk/) supervised by Prof. [Laurenz Hudetz](https://philpeople.org/profiles/laurenz-hudetz).</span>
 
 <span style="font-size: 18px;"> Awards</span> 
 ======
 <span style="font-size: 16px;">I am a recipient of the following awards:</span>  
 <span style="font-size: 16px;">- [EPSRC](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships/) and [Department of Computer Science](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html?) Doctoral Training Scholarship, 2025</span>
-
-<span style="font-size: 18px;"> Teaching & Volunteering</span> 
-======
-<span style="font-size: 16px;">I've taught the following classes:</span>  
-<span style="font-size: 16px;">- Probabilistic Model Checking, [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/probabilistic/)</span>  
-<span style="font-size: 16px;">- Computational Game Theory, [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/)</span>  
-
-<span style="font-size: 16px;">I've served as:</span>  
-<span style="font-size: 16px;">- MPLS Divisional Representative, Oxford Student Union, 2025 - 2026</span>  
-<span style="font-size: 16px;">- DPhil Student Cohort Representative, Oxford Department of Computer Science, 2025 - 2026</span>  
-<span style="font-size: 16px;">- Student-Staff Liaison Representative, LSE Department of Philosophy, 2019 - 2020</span>  
-<span style="font-size: 16px;">- Student Academic Mentor, LSE Department of Philosophy, 2019 - 2020</span>  
