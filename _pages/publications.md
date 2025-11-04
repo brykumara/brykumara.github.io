@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<span style="font-size: 16px;">My papers are also available on my [Google Scholar profile](https://scholar.google.com/citations?user=aZQlD8UAAAAJ&hl=en).</span>
+<span style="font-size: 16px;">My papers are also available on [Google Scholar](https://scholar.google.com/citations?user=aZQlD8UAAAAJ&hl=en).</span>
 
 <span style="font-size: 18px;"> 2025</span> 
 ======

@@ -5,7 +5,7 @@ permalink: /reports/
 author_profile: true
 ---
 
-<span style="font-size: 16px;"> This page references reports and articles that are either non-peer-reviewed or accepted at venues without published proceedings.</span>  
+<span style="font-size: 16px;"> This page references reports are either non-peer-reviewed or accepted at venues without published proceedings.</span>  
 
 
 <span style="font-size: 18px;"> Technical Papers</span> 
