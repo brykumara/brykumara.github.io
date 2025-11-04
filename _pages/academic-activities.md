@@ -5,7 +5,7 @@ title: "Academic Activities"
 author_profile: true
 ---
 
-<span style="font-size: 16px;"> This page lists my academic-related activities</span>
+<span style="font-size: 16px;"> This page lists my academic-related activities and awards.</span>
 
 <span style="font-size: 18px;"> Academic Activities</span> 
 ======
@@ -22,3 +22,8 @@ author_profile: true
 <span style="font-size: 16px;">- DPhil Student Cohort Representative, Oxford Department of Computer Science, 2025 - 2026</span>  
 <span style="font-size: 16px;">- Student-Staff Liaison Representative, LSE Department of Philosophy, 2019 - 2020</span>  
 <span style="font-size: 16px;">- Student Academic Mentor, LSE Department of Philosophy, 2019 - 2020</span>  
+
+<span style="font-size: 18px;"> Awards</span> 
+======
+<span style="font-size: 16px;">I am a recipient of the following awards:</span>  
+<span style="font-size: 16px;">- [EPSRC](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/doctoral-training-partnerships/) and [Department of Computer Science](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html?) Doctoral Training Scholarship, 2025</span>
