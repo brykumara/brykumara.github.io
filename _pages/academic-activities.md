@@ -1,10 +1,8 @@
 ---
+layout: archive
 permalink: /academic-activities/
 title: "Academic Activities"
 author_profile: true
-redirect_from: 
-  - /academic-activities/
-  - /academic-activities.html
 ---
 
 <span style="font-size: 16px;"> This page lists my academic-related activities</span>
