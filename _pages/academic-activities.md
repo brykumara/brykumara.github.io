@@ -5,7 +5,7 @@ title: "Academic Activities"
 author_profile: true
 ---
 
-<span style="font-size: 16px;"> This page lists my academic-related activities and awards.</span>
+<span style="font-size: 16px;"> This page records my academic activities.</span>
 
 <span style="font-size: 18px;"> Teaching Experience</span> 
 ======
