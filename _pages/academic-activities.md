@@ -14,6 +14,11 @@ author_profile: true
 <span style="font-size: 16px;">- Probabilistic Model Checking [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/probabilistic/)</span>  
 <span style="font-size: 16px;">- Computational Game Theory [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/)</span>  
 
+<span style="font-size: 18px;"> Scholarship & Awards</span> 
+======
+<span style="font-size: 16px;">I am a recipient of the following awards:</span>  
+<span style="font-size: 16px;">- UKRI EPSRC and Oxford Computer Science [Doctoral Training Scholarship](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html?) 2025</span>
+
 <span style="font-size: 18px;"> Program Committee</span> 
 ======
 <span style="font-size: 16px;">I've served in the following program committees:</span>  
