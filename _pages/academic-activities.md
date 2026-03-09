@@ -17,7 +17,7 @@ author_profile: true
 <span style="font-size: 18px;"> Scholarship & Awards</span> 
 ======
 <span style="font-size: 16px;">I am a recipient of the following awards:</span>  
-<span style="font-size: 16px;">- UKRI EPSRC and Oxford Computer Science [Doctoral Training Scholarship](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html?) 2025</span>
+<span style="font-size: 16px;">- UKRI EPSRC and Oxford Computer Science Doctoral Training Scholarship [2025](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html?)</span>
 
 <span style="font-size: 18px;"> Program Committee</span> 
 ======
