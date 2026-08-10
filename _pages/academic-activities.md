@@ -27,7 +27,8 @@ author_profile: true
 <span style="font-size: 18px;"> Representation & Engagement</span> 
 ======
 <span style="font-size: 16px;">I've volunteered as:</span>  
+<span style="font-size: 16px;">- DPhil Buddy, Oxford Department of Computer Science 2026 - 2027</span>  
+<span style="font-size: 16px;">- DPhil Student Cohort Representative, Oxford Department of Computer Science, 2025 - 2027</span>  
 <span style="font-size: 16px;">- MPLS Division Postgraduate Research Representative, Oxford Student Union, 2025 - 2026</span>  
-<span style="font-size: 16px;">- DPhil Student Cohort Representative, Oxford Department of Computer Science, 2025 - 2026</span>  
 <span style="font-size: 16px;">- Student-Staff Liaison Representative, LSE Department of Philosophy, 2019 - 2020</span>  
 <span style="font-size: 16px;">- Student Academic Mentor, LSE Department of Philosophy, 2019 - 2020</span>  
