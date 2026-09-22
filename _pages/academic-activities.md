@@ -12,11 +12,11 @@ author_profile: true
 <span style="font-size: 16px;">I've taught the following classes:</span>  
 <!-- <span style="font-size: 16px;">- Foundations of Self-Programming Agents [2026](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/foundagent/)</span>   -->
 <span style="font-size: 16px;">- Probabilistic Model Checking [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/probabilistic/)</span>  
-<span style="font-size: 16px;">- Computational Game Theory [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/),[2026](https://www.cs.ox.ac.uk/teaching/courses/2026-2027/cgt/)</span>  
+<span style="font-size: 16px;">- Computational Game Theory [2025](https://www.cs.ox.ac.uk/teaching/courses/2025-2026/cgt/), [2026](https://www.cs.ox.ac.uk/teaching/courses/2026-2027/cgt/)</span>  
 
 <span style="font-size: 18px;"> Scholarship & Awards</span> 
 ======
-<span style="font-size: 16px;">I am a recipient of the following awards:</span>  
+<span style="font-size: 16px;">I am a recipient of the following:</span>  
 <span style="font-size: 16px;">- UKRI EPSRC and Oxford Computer Science Doctoral Training Scholarship [2025](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html?)</span>
 
 <span style="font-size: 18px;"> Program Committee</span> 
@@ -27,7 +27,7 @@ author_profile: true
 <span style="font-size: 18px;"> Representation & Engagement</span> 
 ======
 <span style="font-size: 16px;">I've volunteered as:</span>  
-<span style="font-size: 16px;">- Secretary, Computer Science Graduate Society,Oxford Department of Computer Science, 2026 - 2027</span> 
+<span style="font-size: 16px;">- Secretary, Computer Science Graduate Society, Oxford Department of Computer Science, 2026 - 2027</span> 
 <span style="font-size: 16px;">- DPhil Buddy, Oxford Department of Computer Science 2026 - 2027</span>   
 <span style="font-size: 16px;">- DPhil Student Cohort Representative, Oxford Department of Computer Science, 2025 - 2027</span> 
 <span style="font-size: 16px;">- MPLS Division Postgraduate Research Representative, Oxford Student Union, 2025 - 2026</span>  
